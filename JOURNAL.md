@@ -5,7 +5,7 @@ description: "Rubik's cube timer with scramble generation and solve history stor
 created_at: "2025-06-20"
 ---
 
-### Total time spent: 3h
+### Total time spent: 5h
 
 # June 20: Started project planning
 
@@ -34,5 +34,21 @@ What I have to figure out now is how I'll wire the 18650 battery holder to the B
 If I take into account all the time I spent researching how to do this it'd probably amount to like 3 or 4 hours, but since it wasn't a whole uninterrupted session and basically I only did some research whenever I had free time let's call it 2 hours.
 
 PS: I love how well documented xiao boards are, not only that but the docs also include a lot of resources like schematics of the board, 3D models, DXF files with dimensions, and a lot of useful stuff
+
+**Time spent this session: 2h**
+
+# June 22: Started (and finished) schematic
+
+I was finally able to start my schematic today, and I finished it since it's way simpler than I thought. Here it is: (I added the battery holder myself since my symbol doesn't include the BAT pins and I'm probably going to hand wire it)
+
+<img src="assets/schematic.png" width=500px>
+
+I also tried starting with the PCB but spent way more time than I should've gathering footprints so not even worth it including a screenshot 😭
+
+Talking about the PCB, I have to figure out where I'm going to position all the components since I want to keep my PCB as small as possible. I was thinking about mounting the xiao on the back of the switches but I'm not sure it'd work, and soldering the battery pads would still be a problem if the switches are under the xiao.
+
+Thinking about it maybe I'll do the CAD before the PCB so I have a better idea of how much space I'm working with and where to place the battery holder (I'm really overthinking this literally spent a whole hour looking into the battery aspect today lmao)
+
+This tuesday I'll work some more on the PCB and look into doing the CAD, it's really hard for me but it motivates me to learn :D (hopefully I stop procrastinating on Slack instead of working on my project lol)
 
 **Time spent this session: 2h**
