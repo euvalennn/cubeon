@@ -5,7 +5,7 @@ description: "Rubik's cube timer with scramble generation and solve history stor
 created_at: "2025-06-20"
 ---
 
-### Total time spent: 5h
+### Total time spent: 7h
 
 # June 20: Started project planning
 
@@ -50,5 +50,25 @@ Talking about the PCB, I have to figure out where I'm going to position all the 
 Thinking about it maybe I'll do the CAD before the PCB so I have a better idea of how much space I'm working with and where to place the battery holder (I'm really overthinking this literally spent a whole hour looking into the battery aspect today lmao)
 
 This tuesday I'll work some more on the PCB and look into doing the CAD, it's really hard for me but it motivates me to learn :D (hopefully I stop procrastinating on Slack instead of working on my project lol)
+
+**Time spent this session: 2h**
+
+# June 24: Did the PCB!! (v1 at least)
+
+Finally started and finished my PCB! It's really simple but it should work, I might change it later though since I'm not 100% sure what I'm trying to do will work. Here's the PCB both in PCB editor and 3D viewer:
+
+<img src="assets/pcb-editor.png" width=500px>
+
+<img src="assets/3d-viewer-front.png" width=500px>
+
+<img src="assets/3d-viewer-back.png" width=500px>
+
+Honestly what took me the most amount of time was doing the silkscreen, routing wasn't too hard since there aren't many components. Also this time I used a ground plane unlike with my hackpad PCB and it honestly makes it so much easier not having to route GND, and I added stitching vias (not sure if I did it correctly, from my understanding that's how stitching vias work).
+
+What I'm not really sure about is the position of the components, I don't know if I can place the xiao under a keyswitch. Also what I'll probably do for the battery pads is just hand wire them to the battery holder since I'd have some space considering the headers (I'm thinking wiring battery, then soldering headers).
+
+I'll start with the CAD now but before that I have to make sure I won't have any problems with the xiao's position, maybe I'll change it since I have to leave space for the battery holder anyways.
+
+I'll put a lot of effort into making the case so it looks polished, hate doing CAD but I mean it's a skill I have to learn 😭
 
 **Time spent this session: 2h**
