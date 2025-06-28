@@ -5,7 +5,7 @@ description: "Rubik's cube timer with scramble generation and solve history stor
 created_at: "2025-06-20"
 ---
 
-### Total time spent: 7h
+### Total time spent: 10h
 
 # June 20: Started project planning
 
@@ -72,3 +72,25 @@ I'll start with the CAD now but before that I have to make sure I won't have any
 I'll put a lot of effort into making the case so it looks polished, hate doing CAD but I mean it's a skill I have to learn 😭
 
 **Time spent this session: 2h**
+
+# June 27: PCB v2 and started the case
+
+I've been thinking about the position of the xiao (on the back of a switch) and I decided not to risk it since it would probably make soldering everything much more harder, and after all I would still need to leave some space in the case for the battery holder so it doesn't make too much of a difference. Here are photos of my PCB (v2, maybe I'll change the silkscreen and add more art but if everything goes well it shouldn't change much):
+
+<img src="assets/pcb-editor-v2.png" width=500px>
+
+<img src="assets/3d-viewer-front-v2.png" width=500px>
+
+<img src="assets/3d-viewer-back-v2.png" width=500px>
+
+Forgot to mention, I also added some filleted corners and mounting holes to keep the PCB in place.
+
+I started doing the case design but I'm honestly not 100% sure of how I'll do it and where I'll position the screw holes, I guess I'm figuring it out as I'm designing it but for now this is all I did for the case (might change it, I'm really bad with CAD lol):
+
+<img src="assets/bottom-case-wip1.png" width=500px>
+
+I have to work on the case now, I think I'll end up spending more time thinking how to mount everything than actually designing it haha
+
+PCB should be fine as it is right now, only thing I could add is some holes in the PCB so that the battery pads are reachable from the back of the board but I'll try to focus on the case right now as I'm tired of doing only the PCB 😭
+
+**Time spent this session: 3h**
