@@ -5,7 +5,7 @@ description: "Rubik's cube timer with scramble generation and solve history stor
 created_at: "2025-06-20"
 ---
 
-### Total time spent: 10h
+### Total time spent: 11h
 
 # June 20: Started project planning
 
@@ -94,3 +94,13 @@ I have to work on the case now, I think I'll end up spending more time thinking 
 PCB should be fine as it is right now, only thing I could add is some holes in the PCB so that the battery pads are reachable from the back of the board but I'll try to focus on the case right now as I'm tired of doing only the PCB 😭
 
 **Time spent this session: 3h**
+
+# June 28: Still trying to figure out how I'm going to do the case
+
+I tried to continue the case but honestly everything just confuses me. I'm not quite sure how and where to place holes for the heatset inserts or basically do anything at all 😭
+
+I'll try and see how to approach this since the battery holder is way bigger than I expected, especially considering how small my PCB is. What I might do is put it under the PCB since it's only about 2cm tall from what I could find, and all measurements in Fusion being in mm makes everything seem so much bigger than it actually is.
+
+Hopefully I figure out a way to do my case because CAD is definitely not as easy as I thought lol
+
+**Time spent this session: 1h**
