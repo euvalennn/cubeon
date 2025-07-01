@@ -5,7 +5,7 @@ description: "Rubik's cube timer with scramble generation and solve history stor
 created_at: "2025-06-20"
 ---
 
-### Total time spent: 11h
+### Total time spent: 14h
 
 # June 20: Started project planning
 
@@ -104,3 +104,21 @@ I'll try and see how to approach this since the battery holder is way bigger tha
 Hopefully I figure out a way to do my case because CAD is definitely not as easy as I thought lol
 
 **Time spent this session: 1h**
+
+# June 29: Continued with case CAD, but I'll probably have to redo it 😭
+
+Today I continued designing the case in Fusion, it took me quite a while to figure out where to leave space for heatset inserts and what way to put the screws into, but I was able to do that and also leave some space for the battery. Everything turned out kind of well but I think I'm gonna have to rethink the whole design, I'll add screenshots of both sketches and 3D view and you'll understand what I mean.
+
+<img src="assets/june-29-bottom-sketch.png" width=500px>
+
+<img src="assets/june-29-middle-sketch.png" width=500px>
+
+<img src="assets/june-29-3dview.png" width=500px>
+
+ITS 30MM TALL 😭😭😭 (also it's way too blocky imo)
+
+I have to find a way to make it slimmer and also look nicer. What I'm thinking about is putting 4 feet on the corners of the case so I have some space in the middle to put the battery sticking out from the bottom (I don't know if that made sense but in my head it does lol)
+
+I'll try doing that next and hopefully it turns out well, I really hate doing CAD lmao
+
+**Time spent this session: 3h**
