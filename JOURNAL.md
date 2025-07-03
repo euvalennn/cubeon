@@ -5,7 +5,7 @@ description: "Rubik's cube timer with scramble generation and solve history stor
 created_at: "2025-06-20"
 ---
 
-### Total time spent: 14h
+### Total time spent: 17h
 
 # June 20: Started project planning
 
@@ -120,5 +120,25 @@ ITS 30MM TALL 😭😭😭 (also it's way too blocky imo)
 I have to find a way to make it slimmer and also look nicer. What I'm thinking about is putting 4 feet on the corners of the case so I have some space in the middle to put the battery sticking out from the bottom (I don't know if that made sense but in my head it does lol)
 
 I'll try doing that next and hopefully it turns out well, I really hate doing CAD lmao
+
+**Time spent this session: 3h**
+
+# July 1: Redesigned case
+
+I don't really like how the original design looks, so I started from scratch using the original sketch as reference for dimensions. It definitely isn't the most good looking case, but I think it does look better than the original and while it's still pretty tall it having feet (idk if that's the proper way to call it but ykwim lol) makes the case's height less noticeable. Here is a photo of how it looks in the 3D viewer:
+
+<img src="assets/july-1-3dview-top.png" width=500px>
+
+(it looks like a table lmao)
+
+And here it is from the bottom (the rectangle on the middle is the space where the battery will go):
+
+<img src="assets/july-1-3dview-bottom.png" width=500px>
+
+Now that I think about it I haven't really taken into account the screw length, but since there will only be 2 parts for the case (this and a plate) it shouldn't really be an issue, I'll just make sure to take measurements and adjust the screw holes when I finish the whole case.
+
+Also, I'll probably remove the mounting holes from the PCB because I'm planning on using a sandwich mount, afaik I don't need mounting holes on the PCB to do that.
+
+So yeah that's about it I still need to do the plate, make sure all the measurements are correct and then import 3D models of the PCB and battery holder to make sure everything looks right. Also I'll probably make the design prettier by adding some decorations because it looks really plain and boring right now, but for now I'll just focus on doing the basic design.
 
 **Time spent this session: 3h**
